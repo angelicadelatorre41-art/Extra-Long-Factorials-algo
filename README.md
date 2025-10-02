@@ -1,1 +1,1 @@
-# Extra-Long-Factorials-algo
+# Extra-Long-Factorials-algo This code calculates the factorial of a number by storing each digit in a list to handle very large results that exceed standard integer types. It multiplies each digit manually, carries overflows to the next position, and finally prints the digits in reverse to display the full factorial.
